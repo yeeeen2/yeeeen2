@@ -1,7 +1,8 @@
-<div align=center><h2>✨Backend Developer✨</h2></div>
+<div align=center><h2>✨Backend Developer✨</h2>
+<h1> JO YEEUN 🙋 </h1></div>
 
 <div align ="center">
-<h1> JO YEEUN 🙋 </h1>
+
 
 <h2>🛠Tech Stack🛠</h2>
   
