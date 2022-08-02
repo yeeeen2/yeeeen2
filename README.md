@@ -14,10 +14,9 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-FFBB00?style=for-the-badge&logo=apachetomcat&logoColor=black">
-</div>
 
 <h3>🛠Tools🛠</h3>
-<div align=left>
+  
   <img src="https://img.shields.io/badge/eclipse-525C86?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
